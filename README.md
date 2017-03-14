@@ -7,8 +7,12 @@ Feedback and suggestions are greatly welcome!
 
 
 ==================
+
+
 quweiwiki
+
 技术框架vue.js+ webpack + babel + jQuery + BootStrap + ES6
+
 ==================
 ### Introduction：
 * bundle.min.js是整个应用打包压缩完成文件。
